@@ -1,4 +1,4 @@
-## Random Quoate Generator
+## Random Quote Generator
 
 
 ## Installation
